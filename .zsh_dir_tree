@@ -1,0 +1,7 @@
+.zsh
+|-- cache
+|   `-- python3_modules
+`-- custom
+    |-- zsh-autosuggestions
+    |-- zsh-history-substring-search
+    `-- zsh-syntax-highlighting
